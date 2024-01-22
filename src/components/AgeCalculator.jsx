@@ -58,6 +58,9 @@ const AgeCalculator = () => {
 
         {/* button to trigger age calculation funciton */}
         <button onClick={calculateAge}>Calculate Age</button>
+        
+              {/* button to trigger age calculation funciton */}
+              <button onClick={calculateAge}>Calculate Age</button>
 
         {/* structure to display the results */}
         {age && (
